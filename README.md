@@ -1,7 +1,8 @@
 ### Hi there 👋
+https://camo.githubusercontent.com/c44aaf3a6b52ad591734dca81c06599b93b58e942caaeea66783835219c65d74/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d74636e69636b6c657373
 
+- 🌱 I’m currently learning Web Development with Node, Javascript, MongoDB, Python.
 <!--
-**Lawrence-Evans/Lawrence-Evans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
