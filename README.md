@@ -1,7 +1,11 @@
 ### Hi there 👋
 ![GitHub Views](https://komarev.com/ghpvc/?username=Lawrence-Evans)
 
-- 🌱 I’m currently learning Web Development with HTML, CSS, Node, Javascript, MongoDB, Python.
+## Currently in bootcamp with CoGrammer:
+- 🌱 Learning Web Development with HTML, CSS, Node, Javascript, MongoDB, Mongoose, Python, React, Ajax.
+- Course completion end og June 2024
+
+## Self learning carrying on side by side with bootcamp.
 <!--
 
 Here are some ideas to get you started:
