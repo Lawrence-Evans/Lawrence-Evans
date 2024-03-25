@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![GitHub Views](https://komarev.com/ghpvc/?username=Lawrence-Evans)
 
-- 🌱 I’m currently learning Web Development with Node, Javascript, MongoDB, Python.
+- 🌱 I’m currently learning Web Development with HTML, CSS, Node, Javascript, MongoDB, Python.
 <!--
 
 Here are some ideas to get you started:
