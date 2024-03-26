@@ -3,7 +3,7 @@
 
 ## Currently in bootcamp with CoGrammer:
 - 🌱 Learning Web Development with HTML, CSS, Node, Javascript, MongoDB, Mongoose, Python, React, Ajax.
-- Course completion end og June 2024
+- Course completion end on June 2024
 
 ## Self learning carrying on side by side with bootcamp.
 <!--
